@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveed Zaidi</h1>
-<h3 align="center">A result-oriented professional with 7+ years of expertise in building both desktop and web applications, architecture designing & enhancement, solution development & deployment using Microsoft technology stack & execution of project from concept to delivery in asset finance & surveys domain. Ability to contribute to the to the organization's growth & in turn ensuring personal growth within the organization.</h3>
+<h3 align="center">A result-oriented professional with 8+ years of expertise in building both desktop and web applications, architecture designing & enhancement, solution development & deployment using Microsoft technology stack & execution of project from concept to delivery in asset finance & surveys domain. Ability to contribute to the to the organization's growth & in turn ensuring personal growth within the organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveedzaidi36&label=Profile%20views&color=0e75b6&style=flat" alt="naveedzaidi36" /> </p>
 
